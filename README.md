@@ -22,7 +22,7 @@
 
 ### Tutor(a)
 
-- <a href="https://www.linkedin.com/in/lucas-gomes-moreira-15a8452a/">Lucas Gomes Moreira</a>
+- <a href="">Leonardo Ruiz Orabona</a>
 
 ### Coordenador(a)
 

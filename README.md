@@ -51,10 +51,14 @@ Nova tabela adicionada com os seguintes campos, abaixo explicados:
 ## Parte 2 — Dados Textuais (NLP) — Conjunto (PT-BR)
 
 Arquivos no repositório:
-- [docs/hipertensao_ms.txt](docs/hipertensao_ms.txt) — material técnico do Ministério da Saúde sobre HAS (saúde pública / conduta).
-- [docs/has_artigo2.txt](docs/has_artigo2.txt) — segundo texto sobre hipertensão (diretrizes/condutas/sintomas/tratamento).
-- [docs/miRNAs_dcv_scielo.txt](docs/miRNAs_dcv_scielo.txt) — revisão científica sobre microRNAs em doença cardiovascular (biomarcadores).
-- [docs/gdf15_biomarcador_scielo.txt](docs/GDF-15 como Biomarcador em Doenças Cardiovasculares.txt) — revisão científica sobre GDF-15 em cenários cardiovasculares.
+## Parte 2 — Dados Textuais (NLP) — Conjunto (PT-BR)
+
+Arquivos no repositório:
+- [docs/hipertensao_arterial_sistemica_cab37.txt](docs/hipertensao_arterial_sistemica_cab37.txt) — material técnico sobre HAS.
+- [docs/pcdt_hipertensao_arterial_sistemica.txt](docs/pcdt_hipertensao_arterial_sistemica.txt) — PCDT de HAS.
+- [docs/mirnas_fisiopatologia_dcv.txt](docs/mirnas_fisiopatologia_dcv.txt) — revisão (miRNAs em doença cardiovascular).
+- [docs/gdf15_biomarcador_dcv.txt](docs/gdf15_biomarcador_dcv.txt) — revisão (GDF-15 como biomarcador em DCV).
+
 
 **Por que estes 4 juntos?**  
 Cobrem do **macro** (saúde pública, diretrizes e sintomas/tratamento em HAS) ao **micro** (biomarcadores e mecanismos em DCV). Isso enriquece:

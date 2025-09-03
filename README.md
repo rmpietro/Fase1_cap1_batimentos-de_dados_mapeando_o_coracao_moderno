@@ -48,7 +48,30 @@ Este projeto agrega e define os dados fundamentais a partir de repositórios e b
 
 Nova tabela adicionada com os seguintes campos, abaixo explicados:
 
-- TBD
+## Parte 2 — Dados Textuais (NLP) — Conjunto (PT-BR)
+
+Arquivos no repositório:
+- [docs/hipertensao_ms.txt](docs/hipertensao_ms.txt) — material técnico do Ministério da Saúde sobre HAS (saúde pública / conduta).
+- [docs/has_artigo2.txt](docs/has_artigo2.txt) — segundo texto sobre hipertensão (diretrizes/condutas/sintomas/tratamento).
+- [docs/miRNAs_dcv_scielo.txt](docs/miRNAs_dcv_scielo.txt) — revisão científica sobre microRNAs em doença cardiovascular (biomarcadores).
+- [docs/gdf15_biomarcador_scielo.txt](docs/GDF-15 como Biomarcador em Doenças Cardiovasculares.txt) — revisão científica sobre GDF-15 em cenários cardiovasculares.
+
+**Por que estes 4 juntos?**  
+Cobrem do **macro** (saúde pública, diretrizes e sintomas/tratamento em HAS) ao **micro** (biomarcadores e mecanismos em DCV). Isso enriquece:
+- o vocabulário clínico (HAS, sinais, exames, fármacos, condutas);
+- o vocabulário biomédico (miRNAs, GDF-15, vias, desfechos).
+
+**Tarefas de NLP (exemplos)**
+- **NER/Normalização**: doenças (HAS, DAC, ICC), sinais/sintomas, exames (ECG, MAPA), fármacos (IECA, estatinas), **biomarcadores** (miR-xxx, GDF-15) → mapear para CID-10/SNOMED/LOINC quando aplicável.
+- **Classificação de tópicos**: prevenção, diagnóstico, tratamento, seguimento, mecanismos/biomarcadores.
+- **Extração de relações**: *biomarcador → condição → prognóstico/tratamento* (p.ex., “GDF-15 elevado” associado a “pior desfecho em ICC”).
+- **Sumarização/QA**: respostas objetivas a partir dos textos de HAS (ex.: metas pressóricas, quando iniciar tratamento).
+
+**Governança e licenças**
+- Textos convertidos para **.txt (UTF-8)**; metadados de proveniência no topo de cada arquivo (Título, URL/Fonte, Licença/uso).  
+- SciELO: utilizar artigos **Acesso Aberto/CC** com **atribuição** no arquivo e no README.  
+- Sem dados pessoais. Apenas conteúdo público/científico.
+
 
 ## 📁 Estrutura de pastas
 

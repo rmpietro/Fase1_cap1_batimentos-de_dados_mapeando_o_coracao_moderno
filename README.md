@@ -51,9 +51,6 @@ Nova tabela adicionada com os seguintes campos, abaixo explicados:
 ## Parte 2 — Dados Textuais (NLP) — Conjunto (PT-BR)
 
 Arquivos no repositório:
-## Parte 2 — Dados Textuais (NLP) — Conjunto (PT-BR)
-
-Arquivos no repositório:
 - [docs/hipertensao_arterial_sistemica_cab37.txt](docs/hipertensao_arterial_sistemica_cab37.txt) — material técnico sobre HAS.
 - [docs/pcdt_hipertensao_arterial_sistemica.txt](docs/pcdt_hipertensao_arterial_sistemica.txt) — PCDT de HAS.
 - [docs/mirnas_fisiopatologia_dcv.txt](docs/mirnas_fisiopatologia_dcv.txt) — revisão (miRNAs em doença cardiovascular).

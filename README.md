@@ -178,7 +178,7 @@ Este conjunto de imagens contém registros de ECG coletados usando um dispositiv
 
 As imagens estão disponíveis para visualização e download NESTE REPOSITÓRIO, em:
 
-- [assets/imagens_exames_cardiovasculares](assets/imagens_exames_cardiovasculares/)
+- [assets/DADOS VISUAIS (VC)
 
 Ou ainda, para download neste LINK:
 

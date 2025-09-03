@@ -1,0 +1,950 @@
+Artigo de Revisão
+Papel dos miRNAs na Fisiopatologia das Doenças Cardiovasculares
+Role of miRNAs on the Pathophysiology of Cardiovascular Diseases
+Debora Cristina Pereira da Silva,1 Felipe Demani Carneiro,1 Kelly Costa de Almeida,2 Caroline Fernandes-Santos1
+Programa de Pós-graduação em Ciências Cardiovasculares da Universidade Federal Fluminense (UFF),1 Niterói, RJ - Brasil
+Universidade Federal Fluminense (UFF),2 Nova Friburgo, RJ – Brasil
+
+Resumo
+O miRNA (ou microRNA) constitui uma subclasse
+de RNAs não codificantes responsáveis pela regulação
+gênica pós‑transcricional. Ele possui aproximadamente
+22 nucleotídeos e regula a expressão gênica em plantas e
+animais ao nível pós-transcricional, pela clivagem de um mRNA
+alvo ou da repressão de sua tradução. Embora muitos processos
+e mecanismos ainda não estejam completamente elucidados,
+existe uma forte associação entre a expressão de miRNAs e
+diversas doenças que acometem o organismo. Os miRNAs são
+expressos no sistema cardiovascular, contudo o seu papel no
+desenvolvimento das doenças cardiovasculares (DCVs) ainda
+não está totalmente elucidado. Diante disso, realizou-se uma
+revisão não sistemática da literatura a fim de se discutir a relação
+entre os miRNAs e as DCVs. Nesta revisão, primeiramente é
+discutido o que são os miRNAs e a sua ação a nível celular.
+Após, é discutido o papel dos miRNAs como biomarcadores
+circulantes de DCVs e então o seu papel no remodelamento
+cardíaco e na aterosclerose. Apesar da complexidade e dos
+desafios, a identificação dos miRNAs desregulados nas DCVs
+é crucial, uma vez que possibilita uma melhor compressão
+dos mecanismos celulares e moleculares envolvidos, assim
+como auxilia o desenvolvimento de marcadores circulantes de
+diagnóstico e prognóstico mais acurados e de novas estratégias
+terapêuticas para os diferentes estágios da DCV.
+
+Introdução
+A pesquisa científica tem buscado desvendar a
+fisiopatologia de diversas doenças para o desenvolvimento
+de novos caminhos terapêuticos. Nesse âmbito, o miRNA
+(ou microRNA) vem ganhando a atenção da comunidade
+científica como um possível alvo terapêutico. Desde que
+foram descobertos em 1993,1 diversos miRNAs relacionados
+a processos biológicos como reguladores gênicos já foram
+catalogados. Estima-se que ainda haja diversos miRNAs
+desconhecidos, o que os torna uma das maiores classes de
+
+Palavras-chave
+Doenças Cardiovasculares/fisiopatologia; Doenças
+Cardiovasculares/diagnóstico; Doenças Cardiovasculares/
+genética; Biomarcadores/metabolismo; Remodelamento
+Cardíaco; Aterosclerose; Micro RNAs.
+Correspondência: Caroline Fernandes dos Santos Bottino •
+Rua Dr Silvio Henrique Braune, 22. CEP 28625-650, Centro, Nova
+Friburgo, RJ - Brasil
+E-mail: cf_santos@id.uff.br
+Artigo recebido em 19/08/2017, revisado em 21/10/2017, aceito em 25/10/2017
+
+DOI: 10.5935/abc.20180215
+
+reguladores gênicos. Para dimensionar sua importância,
+estima-se que os miRNAs regulem cerca de 1/3 da expressão
+gênica em mamíferos.2
+Diversas pesquisas têm estabelecido uma relação do
+padrão de expressão de miRNAs com algumas doenças,
+embora muitos dos processos e mecanismos ainda não
+estejam completamente elucidados. No diabetes, por
+exemplo, estudos experimentais apontam a presença de
+miRNAs específicos nas ilhotas pancreáticas e sugerem que
+esses exerçam papel importante no controle da secreção
+da insulina.3 A expressão de miRNAs também pode ser
+observada em diferentes tipos de tumores; em alguns casos
+eles atuam como supressores e em outros exercem papel
+oposto e com efeitos deletérios.4 Já se sabe hoje que os
+miRNAs são expressos no sistema cardiovascular; entretanto,
+este conhecimento ainda é insuficiente para um melhor
+entendimento sobre o seu papel no desenvolvimento das
+doenças cardiovasculares (DCVs).
+Diante do exposto, realizou-se uma revisão não sistemática
+da literatura a fim de se organizar e discutir os principais
+estudos que investigam a relação dos miRNAs com a doença
+cardiovascular. A base de dados consultada foi o PubMed
+(www.ncbi.nlm.nih.gov/pubmed). Foram selecionados artigos
+originais realizados com humanos ou animais, redigidos
+na língua inglesa e utilizou-se como palavras-chave os
+descritores MeSH: microRNA AND Cardiovascular Diseases,
+miRNA AND Cardiovascular Diseases. Na presente revisão
+da literatura, primeiro apresentamos o que são os miRNAs
+e a sua ação a nível celular. Após, é discutido o papel dos
+miRNAs como biomarcadores circulantes e então o seu papel
+no remodelamento cardíaco e na aterosclerose.
+Biologia dos miRNAs
+Durante anos acreditava-se que as regiões não-codificantes
+do genoma eram “lixo genético”, pois não possuíam
+informação para a síntese de proteínas. Atualmente, sabese que a maior porção do transcriptoma produzido pelo
+genoma de eucariotos é composta por RNAs não-codificantes,
+que podem ser classificados em funcionais e reguladores.
+Entre os RNAs funcionais destacam-se o RNA transportador
+(tRNA), o RNA ribossomal (rRNA), o pequeno RNA nuclear
+(snRNA) e o pequeno RNA nucleolar (snoRNA). Dentre os
+RNAs reguladores destacam-se o miRNA, o pequeno RNA
+de interferência (siRNA), o piwiRNA (piRNA) e o longo RNA
+não-codificador (lncRNA).5
+Dessa ampla variedade de classes de RNAs não‑codificantes,
+os miRNAs se tornaram alvo de grande interesse devido à
+associação observada entre a sua desregulação e o surgimento
+de alterações fenotípicas e patológicas.6 Os miRNAs são
+definidos como pequenas moléculas endógenas de ácido
+
+738
+
+Silva et al
+miRNAs e doença cardiovascular
+
+Artigo de Revisão
+ribonucleico (RNA) em cadeia simples, não codificantes,
+com aproximadamente 22 nucleotídeos (nt). Atuam como
+reguladores da expressão gênica em plantas e animais ao
+nível pós-transcricional, pela clivagem de um RNA mensageiro
+(RNAm) alvo ou da repressão de sua tradução.7
+O primeiro miRNA (lin-4) foi descrito em 1993 pelo
+grupo de Rosalind Lee, estando ele associado à regulação
+do desenvolvimento larval de Caenorhabditis elegans
+(C. elegans). Lin-4 regulava negativamente o nível da proteína
+LIN-14 (da primeira fase larvar), diminuindo sua expressão
+ao longo do tempo.1
+A biogênese de um miRNA começa com a síntese de
+um longo transcrito primário conhecido como pri-miRNA
+(~110pb) (Figura 1). Os pri-miRNAs são transcritos pelas
+RNAs polimerase II ou III8 e possuem uma estrutura de hairpin
+(“grampo de cabelo”), que é essencial para o reconhecimento
+das enzimas de processamento de miRNAs. No núcleo, o
+pri‑miRNA é processado em pré-miRNA (~70pb) pela ação
+da enzima Drosha9 que reconhece e cliva as extremidades de
+pequenas estruturas de RNA em forma de hairpin.10
+Após o processamento nuclear, cada pré-miRNA é
+exportado para o citoplasma através da proteína Exportina 5.11
+O pré-miRNA é reconhecido pela enzima Dicer que cliva a
+região do loop, resultando em uma molécula de dupla fita
+de RNA (dsRNA; ~22pb). Esse processo recruta proteínas
+da família argonauta (Ago) para formar o complexo de
+silenciamento induzido por RNA (RISC).12 O RISC se liga a
+uma das duas fitas do dsRNA para gerar o miRNA maduro
+(miR canônico ou miR-5p) que atua na regulação de um
+RNAm alvo.13 A outra fita (miR* ou miR-3p) é degradada
+ou capaz de formar outro RISC e realizar a regulação de
+outro RNAm alvo.14
+
+O pareamento perfeito entre o miRNA e a região 3'
+UTR do RNAm alvo promove a clivagem do RNAm e o seu
+posterior encaminhamento para os p-bodies (do inglês, mRNA
+processing bodies) para a sua consequente degradação.15
+Por outro lado, o pareamento parcial entre o miRNA e a região
+3’ UTR do mRNA promove inibição da tradução, o principal
+mecanismo de atuação dos miRNAs em mamíferos. 16
+Por meio desse pareamento, o miRNA tem a capacidade de
+inibir a tradução, interferindo diretamente com os fatores
+de iniciação da tradução ou perturbando a função da cauda
+poli-A.17 A localização primária dos miRNAs é o citoplasma
+celular,8 embora alguns estudos confirmem o ingresso dessas
+moléculas no sistema circulatório, possivelmente devido ao
+processo de lise celular.18
+Assim, os miRNAs também estão presentes na circulação
+sanguínea e diversos estudos mostram sua alta estabilidade no
+meio extracelular. A proteção dos miRNAs à degradação no
+meio extracelular seria devido à sua ligação a proteínas (p. ex.,
+lipoproteínas) ou pelo seu encapsulamento em microvesículas
+e exossomas. Assim, os miRNAs podem ser detectados de
+forma confiável em amostras plasmáticas, sendo apontados
+como potenciais biomarcadores no diagnóstico das DCVs.19
+O fato dos miRNAs serem sequências pequenas e agirem sem
+a necessidade de pareamento completo faz com que um único
+miRNA possa ter como alvo dezenas de RNAm, assim como
+um único RNAm pode ser alvo de múltiplos miRNAs, gerando
+assim um grande poder regulatório da expressão genética.20
+miRNAs como biomarcadores circulantes
+Estudos apontam que o nível circulante de miRNAs está
+alterado em algumas DCVs, despertando assim o interesse em
+seu uso como ferramenta de diagnóstico clínico e prognóstico,
+
+Figura 1 – Síntese do miRNA e sua ação sobre o RNA mensageiro. O pri-miRNA em forma de grampo é sintetizado no núcleo e convertido a pre-miRNA pela ação da enzima
+Drosha, sendo então exportado do núcleo pela Exportina 5. No citoplasma, o pre-miRNA sofre ação da enzima DICER e a união do complexo de silenciamento induzido
+por RNA (RISC) à dupla fita de RNA (dsRNA) gera o miRNA maduro. O miRNA maduro se anela ao RNAm alvo, promovendo a sua degradação ou inibindo a sua tradução.
+
+739
+
+Arq Bras Cardiol. 2018; 111(5):738-746
+
+Silva et al
+miRNAs e doença cardiovascular
+
+Artigo de Revisão
+uma vez que os miRNAs possuem alta estabilidade na corrente
+sanguínea e são de fácil detecção. Os miRNAs poderiam ser
+utilizados, por exemplo, como biomarcadores da insuficiência
+cardíaca (IC), fibrilação atrial, infarto agudo do miocárdio
+(IAM) e aterosclerose, por meio de sua detecção no plasma
+sanguíneo (Figura 2).
+
+IAM, com 77% de acerto para ambos os gêneros.27 Jia et al.,28
+mostraram que os miR-30d-5p e -125b-5p também possuem
+valor diagnóstico para o IAM, quando avaliados em pacientes
+com síndrome coronariana aguda.28 Em modelo animal de
+IAM cirúrgico, o miR-208a apresentou níveis circulantes
+elevados 4 horas e 24 horas após a indução do infarto.25
+
+Já está bem estabelecido que a presença do miR-1 no
+sangue auxilia a identificação do IAM, mas sua utilização como
+biomarcador a longo-prazo não é recomendada, devido ao
+curto tempo no qual ele permanece na circulação sanguínea.
+Sua curta meia-vida resulta provavelmente de sua liberação
+direta no sangue a partir do tecido cardíaco necrótico de
+forma não encapsulada pelo exossoma.21 Quando há lesão
+cardíaca, miRNAs seriam liberados no sangue por meio de
+exossomos ou pela ruptura celular, podendo estar associados
+ou não a outras moléculas. Estas moléculas poderiam proteger
+os miRNAs contra a degradação, prolongando o seu tempo de
+permanência na circulação. Além disso, o aumento do fluxo
+sanguíneo, alteração do pH e a liberação de citocinas são fatores
+que também influenciam a meia-vida dos miRNAs circulantes.
+Por exemplo, foi verificado que o miR-1 maduro exogenamente
+adicionado ao soro é rapidamente degradado tanto in vitro
+quanto in vivo.22 Uma limitação ao uso de miRNA circulantes é a
+falta de normalização de sua quantificação, quando comparado
+ao miRNA tecidual.23 Contudo, apesar dessas limitações, o
+miR-1 apresenta alta sensibilidade na identificação do IAM no
+momento inicial desse evento adverso.
+
+Diversos estudos já foram realizados com o foco em se
+avaliar o valor prognóstico e/ou diagnóstico dos miRNAs na
+IC, assim como no tratamento da IC. Existem evidências de
+que os miRNAs desempenham um papel tanto no surgimento
+quanto na progressão da IC. Apesar do peptídeo natriurético
+cerebral (BNP) e do pró-peptídeo natriurético cerebral
+N-terminal (NT-proBNP) serem utilizados atualmente como
+padrão ouro no diagnóstico da IC, os miRNAs têm sido
+estudados exaustivamente como potenciais biomarcadores.
+Como exemplo, uma recente revisão sistemática com
+meta‑análise mostrou que o miR-423-5p, associado ao
+peptídeo natriurético atrial (ANP), teria um potencial
+valor diagnóstico para a detecção da IC.29 Na IC crônica,
+Cakmak et al.,30 mostraram que o miR-182 teria maior valor
+prognóstico para mortalidade cardiovascular, caracterizada
+pela morte súbita inexplicável, IC descompensada ou arritmia
+hemodinamicamente significativa, comparado ao NT-proBNP
+e a proteína C reativa (PCR) de alta sensibilidade pela análise
+da curva ROC em pacientes com IC compensado (NYHA II,
+n = 20) e descompensados (NYHA III, n = 22), comparado a
+controles saudáveis (n = 15).30 Um panorama mais completo
+dos miRNAs envolvidos na IC aguda e crônica pode ser visto na
+revisão recentemente publicada de Vegter e colaboradores.31
+
+Diversos estudos relatam que o miR-499 possui acurácia
+diagnóstica superior a troponina T para o IAM.24,25 A vantagem
+do miR-499 é que ele pode ser detectado no sangue em
+menos de quatro horas após o IAM, enquanto a troponina
+só pode ser detectada mais tardiamente.26 Assim, miR-499
+poderia aumentar a acurácia da troponina T no diagnóstico
+precoce do IAM. O estudo HUNT investigou 179 miRNAs
+em 212 indivíduos sadios com o objetivo de predizer IAM.
+Diversos miRNAs circulantes diferiram significativamente
+durante o período de acompanhamento entre indivíduos que
+posteriormente sofreram IAM e aqueles que permaneceram
+saudáveis. Após análise de regressão logística, foi observado
+que um conjunto de 5 miRNAs (miR-106a-5p, -424-5p,
+miR-144-3p, miR-660-5p e let-7g-5p) melhor prediziam o
+
+Considerando os estudos em pacientes com fibrilação atrial
+(FA), já foi observado que pacientes com IC crônica estável
+com FA e fração de ejeção < 40% apresentam uma redução
+significativa dos níveis plasmáticos de miR-150 comparados
+aos seus controles saudáveis.32 Harling et al.,33 estudaram o
+plasma coletado no pré-operatório 24 horas antes de cirurgia
+de revascularização miocárdica, para avaliar a precisão
+diagnóstica do miRNA na fibrilação atrial pós-operatória.
+Nesta análise, os autores mostraram o miR483-5p como um
+potencial biomarcador da FA pós-operatória, com precisão
+preditiva global de 78%.33 Os miR-23a e -26a também teriam
+a capacidade de prever a FA pós-operatória, uma vez que seus
+
+Figura 2 – Biomarcadores circulantes. Aqui são ilustrados alguns dos miRNAs encontrados no soro ou plasma sanguíneo que poderiam ser utilizados como biomarcadores
+de diagnóstico ou prognóstico de doenças cardiovasculares.
+
+Arq Bras Cardiol. 2018; 111(5):738-746
+
+740
+
+Silva et al
+miRNAs e doença cardiovascular
+
+Artigo de Revisão
+níveis estão reduzidos no período pós-operatório de pacientes
+submetidos à intervenção coronária arterial de by-pass.34
+O nível circulante reduzido do miR-126 serviria como
+candidato a biomarcador do desenvolvimento, progressão e
+severidade da FA e da IC, de acordo com estudo realizado
+em pacientes com FA, IC ou associação de ambos.35 Por fim,
+Gorem et al.,36 mostraram expressão reduzida do miR-150 nas
+plaquetas de pacientes com IC sistólica crônica associada à FA,
+comparado aos indivíduos sem FA, perfil também encontrado
+no soro desses pacientes.36
+Na doença vascular aterosclerótica, já foi observada
+a produção de corpos apoptóticos derivados de células
+endoteliais, os quais continham grande quantidade de
+miR‑126 em seu interior e que eram, por sua vez, capazes de
+desencadear a produção de quimiocina CXCL12 nas células
+vasculares receptoras.37 O miR-212 circulante é sugerido
+por Jeong et al.,38 como um biomarcador da aterosclerose,
+visto que ele aumenta a predição da aterosclerose quando
+combinado a hemoglobina A1c, HDL e lipoproteína (a).
+Em pacientes com aterosclerose, foi visto uma associação entre
+o espessamento das túnicas intima-média da artéria carótida
+com níveis elevados do miR-29a circulante.39
+Remodelamento cardíaco
+O remodelamento ventricular é um dos mecanismos
+envolvidos na progressão da IC e envolve a apoptose e
+hipertrofia de cardiomiócitos, fibrose intersticial decorrente
+da deposição de colágeno, e a rarefação vascular (Figura 3).
+Existem evidências de que os miRNAs desempenham
+um papel importante nesse remodelamento patológico,
+contudo ainda não se conhece todos os miRNAs envolvidos
+e alguns estudos apresentam divergências em seus resultados
+dependendo da doença em foco.
+Uma vez que os miR-1, -133a, -208a/b e -499 são mais
+abundantes no coração em comparação a outros tecidos,
+acredita-se que eles sejam específicos desse tecido. Eles estão
+envolvidos na diferenciação dos precursores mesodérmicos
+
+e na transdiferenciação/reprogramação dos fibroblastos/
+miofibroblastos adultos em cardiomiócitos maduros, assim
+como mantêm a funcionalidade e a sobrevivência dos
+cardiomiócitos.40 Em condições patológicas, a desregulação
+dos miRNAs cardíacos pode levar à progressão da IC, associada
+a arritmia, hipóxia, isquemia, dilatação ventricular, fibrose e
+necrose tecidual.
+Cardiomiócitos
+O miR-1 é um dos mais abundantes miRNAs no tecido
+miocárdico, responsável pelo controle de diferentes
+aspectos do processo de diferenciação e proliferação dos
+cardiomiócitos. Em animais, o miR-1 estaria envolvido
+na proliferação e diferenciação das células cardíacas
+durante a cardiogênese.41 Por outro lado, o aumento da
+expressão do miR-1 leva à arritmia, visto que ele controla a
+condutância cardíaca e automaticidade pela modulação da
+expressão de proteínas envolvidas no manuseio do cálcio
+intracelular.42 O miR-21 é expresso predominantemente em
+fibroblastos cardíacos; o aumento de sua expressão promoveu
+indiretamente a hipertrofia cardíaca pela estimulação da
+MAP (Mitogen Activated Protein) quinase dos fibroblastos em
+modelo animal de IC,43 embora haja evidências de que o
+aumento de sua expressão possui papel anti-hipertrófico em
+cardiomiócitos isolados.44
+O silenciamento do miR-208 em modelo animal de IAM
+reduz a apoptose e atenua a hipertrofia e a fibrose cardíaca,
+refletindo em melhora da função cardíaca.45 Existem evidências
+de que o miR-133a protege os cardiomiócitos neonatais de
+rato da hipertrofia. Entre os mecanismos envolvidos estão
+a modulação da concentração de cálcio intracelular e
+redução da expressão do RNA para o ANP e para a miosina
+de cadeia pesada do tipo beta (β-MHC).46,47 O miR-223
+também é capaz de reduzir a concentração intracelular de
+cálcio, a contratilidade dos cardiomiócitos, e a fosforilação
+da troponina I (cTNI), mecanismos pelos quais este miRNA
+suprimiria a hipertrofia.48
+
+Figura 3 – Remodelamento cardíaco e miRNAs. Principais miRNAs que modulam a hipertrofia cardíaca e a fibrose tecidual durante o remodelamento cardíaco adverso
+em diversas condições patológicas.
+
+741
+
+Arq Bras Cardiol. 2018; 111(5):738-746
+
+Silva et al
+miRNAs e doença cardiovascular
+
+Artigo de Revisão
+O miR-124 estaria envolvido com a hipertrofia cardíaca,
+uma vez que sua expressão está aumentada em modelo de
+hipertrofia induzida pela angiotensina II em cardiomiócitos
+de ratos neonatais em cultura e a inibição de sua expressão
+suprime a hipertrofia induzida por angiotensina II. 49
+Em camundongos, a indução da expressão do miR-499
+especificamente no coração leva à hipertrofia celular e
+disfunção cardíaca devido à alteração da expressão de
+proteínas contráteis – MYH7B e actina alfa 1 do músculo
+esquelético (ACTA1).50
+
+do miR-133 na cardiomiopatia hipertrófica e na dilatação
+atrial, e Yang et al.,57 encontraram aumento da expressão do
+miR-1 na cardiomiopatia isquêmica.
+Em estudo conduzido por Lai et al.,53 a associação de
+diversos miRNAs com a IC foi investigada em amostras do ápice
+do ventrículo esquerdo obtidas por biópsia durante cirurgia
+cardíaca. O miocárdio desses pacientes apresentou aumento da
+expressão dos miR-1, -21, -23, -29, -130, -195 e -199, enquanto
+a expressão dos miR-30, -133 e -208 manteve-se inalterada.
+Esse perfil estava associado a maior expressão do mRNA para
+a caspase 3, colágenos tipo I e tipo III e TGF.53
+
+Fibrose
+O fator de crescimento do tecido conjuntivo (CTGF) é uma
+molécula considerada chave no processo fibrótico uma vez que
+ele induz a síntese da matriz extracelular (MEC). Duisters et al.,51
+mostraram que os miR-133 e miR-30 regulam a expressão do
+CTGF.51 A expressão de CTGF é inversamente proporcional
+à expressão desses miRNAs em modelos de doença cardíaca
+em roedores (modelo genético com hiperativação do sistema
+renina-angiotensina-aldosterona, hipertrofia cardíaca e IC)
+e no remodelamento patológico do ventrículo esquerdo em
+humanos com estenose aórtica isolada submetidos à cirurgia
+de substituição valvar, cujas amostras foram coletadas por
+biópsia. Além disso, o aumento da expressão dos miR-133 e
+miR-30 reduz a expressão de CTGF, o que resulta em menor
+deposição de colágeno.51 Por outro lado, o miR-203 pode atuar
+com um fator fibrogênico, visto que a indução de sua expressão
+em cardiomiócitos de camundongo em cultura aumenta a
+produção de CTGF, fator de transformação do crescimento
+beta 1 (TGF-β1) e fibronectina.52
+O miR-29 também parece desempenhar um papel
+importante no remodelamento da MEC em humanos com
+IC. Ele é expresso preferencialmente em fibroblastos, sendo
+encontrado no entorno de áreas infartadas. Ele estaria
+envolvido no processo de apoptose, principalmente no estágio
+final da IC, levando a redução da expressão de colágeno.53
+Em modelo animal de infarto, há redução da expressão do
+miR-24 e esse se correlaciona com o remodelamento da MEC.
+Quando a expressão do miR-24 é induzida por precursores
+sintéticos, há redução da fibrose, bem como da diferenciação
+e migração de fibroblastos cardíacos.21 O miR-98 atua de
+forma semelhante, visto que a indução de sua expressão em
+fibroblastos cardíacos humanos em cultura inibe a fibrose
+induzida pelo TGF-β1.54
+Perfil de expressão tecidual com base na doença
+Ikeda et al.,55 realizaram uma análise ampla da expressão
+de miRNAs de 67 amostras de miocárdio do ventrículo
+esquerdo de pacientes com cardiomiopatia isquêmica,
+cardiomiopatia dilatada e estenose aórtica. Eles detectaram
+expressão diferencial dependendo da condição, onde
+13 miRNAs foram específicos para a estenose aórtica e 8
+para as cardiomiopatias, sem sobreposição entre estes dois
+grupos.55 Houve redução da expressão dos miR-1, -19a e -19b
+na cardiomiopatia dilatada e na estenose aórtica e aumento da
+expressão do miR-214, o qual está relacionado à hipertrofia
+cardíaca, mas sem alteração na expressão dos miRNAs-133 e
+-208.55 Entretanto, Care et al.,56 mostraram expressão reduzida
+
+Aterosclerose
+A aterosclerose é uma doença inflamatória crônica da
+parede arterial, que ocorre em resposta à lesão endotelial,
+principalmente em artérias elásticas de médio e grande
+calibre, artérias musculares e regiões onde há um distúrbio
+do fluxo sanguíneo laminar. Ela é considerada a principal
+responsável pela doença arterial coronariana, doença arterial
+carotídea, acidente vascular encefálico e doença vascular
+periférica.58 Existem diversas evidências de que os miRNAs
+estão envolvidos no desenvolvimento da aterosclerose, tanto
+em modelos experimentais quanto em humanos. Podemos
+separá-los em miRNAs envolvidos na disfunção endotelial,
+homeostase do colesterol, desenvolvimento da placa
+aterosclerótica, neoangiogênese e instabilidade e ruptura da
+placa, conforme ilustrado na Figura 4.
+Endotélio
+Em suínos, células endoteliais obtidas de regiões arteriais
+susceptíveis a aterosclerose (arco da aorta e bifurcação aorta
+abdominal-artéria renal) apresentaram expressão reduzida dos
+miR-10a e -10b. O miR-10a inibe alguns genes pró-inflamatório
+nas células endoteliais, incluindo a molécula de adesão celular
+vascular 1 (VCAM-1) e a E-selectina, assim como a via do
+NF-kB.59 Em ratos, o miR-181b regula a ativação das células
+endoteliais e a resposta inflamatória vascular ao NF-kB diante
+de estímulos pró-inflamatórios.60 Em células endoteliais obtidas
+da veia umbilical humana (HUVEC), os miR-126, miR‑31
+e miR‑17‑3p também regulam a inflamação vascular pelo
+controle da expressão de moléculas de adesão celular (VCAM‑1,
+molécula de adesão intercelular 1 [ICAM-1] e E-selectina).61
+Homeostase do colesterol
+Os miR-33a e miR-33b regulam os genes SREBP2 e SREPB1,
+os quais são responsáveis pela regulação do colesterol e do
+metabolismo de ácidos graxo, tanto em células humanas
+quanto em camundongos.62 A inibição do miR-33a resultou
+na regressão da aterosclerose em camundongos.63 A inibição
+do miR-122, que representa 80% dos miRNAs expressos pelo
+fígado, resultou em diminuição significativa dos níveis séricos
+de colesterol em camundongos e primatas não-humanos.64
+Desenvolvimento da placa
+O miR-155 é um importante regulador do sistema
+imunológico e demonstra estar envolvido na resposta
+inflamatória aguda. Ele modula o desenvolvimento da
+
+Arq Bras Cardiol. 2018; 111(5):738-746
+
+742
+
+Silva et al
+miRNAs e doença cardiovascular
+
+Artigo de Revisão
+
+ENDOTÉLICO
+
+HOMEOSTASE
+DO
+COLESTERAL
+
+DESENVOLVIMENTO
+DA PLACA
+
+NEOANGIOGÊNESE
+
+INSTABILIDADE
+E RUPTURA
+
+miR-10a/b
+miR-17-3p
+miR-31
+miR-126
+miR-181b
+
+miR-33a/b
+miR-122
+
+miR-21
+miR-26a
+miR-125a-5p
+miR-155
+miR-221
+
+miR-27a/b
+miR-155
+miR-210
+miR-221
+miR-222
+
+miR-100
+miR-127
+miR-133a/b
+miR-145
+
+Figura 4 – Aterosclerose e miRNAs. Desregulação da expressão de diversos miRNAs já foi encontrada nas diferentes etapas do desenvolvimento da aterosclerose.
+Aqui são ilustrados alguns miRNAs envolvidos na disfunção endotelial e inflamação, homeostase do colesterol, desenvolvimento da placa, neoangiogênese e instabilidade
+e ruptura da placa.
+
+placa aterosclerótica, a captação de lipídeos e a resposta
+inflamatória de monócitos e macrófagos que leva à formação
+das células espumosas. Entre seus mecanismos de ação, ele
+atua como um regulador de feedback negativo na resposta
+inflamatória de macrófagos induzida pela LDL oxidada e
+inibe a liberação de citocinas inflamatórias pelos macrófagos
+como, por exemplo, as interleucina 6 (IL-6) e IL-8 e o fator
+de necrose tumoral alfa (TNF-α).65
+Em monócitos de sangue periférico humano, o miR‑125a‑5p
+demonstrou papel importante na mediação da absorção de
+lipídios e diminuição da secreção de algumas citocinas
+inflamatórias (IL-2, IL-6, TNF-α e TGF-β) em macrófagos.66
+O LDL oxidado aumentou os níveis do miR-125a-5p, o qual
+regula a ORP-9 (um membro da família de proteínas ligantes
+de oxiesterol), reduzindo, assim, a expressão dos receptores
+scavengers SR (CD68) e LOX-1.66 De forma semelhante, o
+miR-155 reduziu a captação de LDL oxidado diminuindo a
+expressão de CD36 e LOX-1.65
+A evolução das estrias gordurosas para o ateroma fibroso
+(capsula fibrosa) é promovida, sobretudo, pela proliferação
+e migração das células musculares lisas vasculares (CMLV)
+para a camada intima do vaso. A proliferação e apoptose
+dessas células é regulada pelo TGF-β, que por sua vez é
+modulado negativamente pelo miR-26a (ou seja, a inibição
+do miR-26a promove a diferenciação das CMLVs) em soro
+humano. 67 Os miR-21 e miR-221 também modulam a
+proliferação das CMLVs, onde o miR-221 atua em resposta
+à sinalização do fator de crescimento derivado de plaquetas
+(PDGF). Além disso, a regulação negativa de p27Kip1
+pelo miR-221 é crítica para a indução de proliferação
+celular mediada pelo PDGF, enquanto o c-Kit pode estar
+relacionado com a inibição da transcrição do gene contrátil
+específico de CMLVs, reduzindo a expressão de miocardina,
+um potente coativador nuclear específico das CMLVs.68
+Neoangiogênese
+Durante o desenvolvimento da placa aterosclerótica, os
+macrófagos ativados repletos de colesterol são responsáveis
+pela liberação de diversas citocinas, entre elas, citocinas que
+promovem a neoangiogênese. Entre os miRNAs envolvidos
+nesse processo estão o miR-221, -222, -155, -27a, -27b e -210.
+Em HUVEC, o miR-222/221 afeta a expressão do c-Kit,69 e o
+
+743
+
+Arq Bras Cardiol. 2018; 111(5):738-746
+
+miR-222 está envolvido no remodelamento vascular mediado
+pela inflamação.70 O miR-155 parece regular a expressão
+da óxido nítrico sintase endotelial (eNOS) e o relaxamento
+vascular dependente de endotélio.71 Em modelo esferoide
+tridimensional, a expressão aumentada dos miR‑27a/b
+estimula o brotamento vascular, mostrando, assim, sua ação
+pró-angiogênica, uma vez que esses miRNAs têm como alvo
+a semaforina 6A, um inibidor da angiogênese.72 Por fim, a
+expressão do miR-210 em HUVEC aumenta progressivamente
+em condições de hipóxia e a indução da sua expressão
+em condições de normóxia leva à formação de estruturas
+semelhantes a capilares em Matrigel guiada pelo VEGF.73
+Instabilidade e ruptura da placa
+A instabilidade e ruptura da cápsula fibrosa da placa
+aterosclerótica depende do desequilíbrio entre a síntese e a
+degradação da MEC pelos fibroblastos. A ruptura da placa é
+o mecanismo mais importante para o surgimento do acidente
+vascular encefálico, IAM e morte súbita. A lise do colágeno
+ocorre por intermédio das enzimas metaloproteinases (MMPs),
+em especial as MMP-1, MMP-2, MMP-3 e MMP-9, que são
+liberadas principalmente por macrófagos ativados.74
+A MMP-9 é regulada pelos miR-133a/b, o qual também
+é capaz de modular a apoptose e a proliferação das CMLVs
+em modelos animais.75 Cipollone et al.76 investigaram, em
+humanos, a expressão de miRNAs e sua correlação com
+a instabilidade da placa aterosclerótica na artéria carótida
+interna. Foram avaliadas duas coortes independentes de
+placas ateroscleróticas coletadas em dois hospitais italianos
+(n = 15 e n = 38), de pacientes submetidos à endarterectomia
+carotídea para extracraniano de alto grau (> 70%) de estenose
+da artéria carótida interna. As placas foram subdivididas
+em grupos sintomático e assintomático de acordo com a
+presença ou ausência de AVE. Os autores observaram que,
+entre 41 miRNAs investigados, 5 miRNAs (miR-100, -127,
+-145, -133a e -133b) apresentaram expressão aumentada em
+placas sintomáticas (onde houve AVE) em comparação à placas
+assintomáticas.76 É importante ressaltar que a discrepância
+na expressão de miRNAs entre placas instáveis e estáveis
+não estava relacionada a diferenças em fatores de risco
+convencionais ou terapias concomitantes, pois essas variáveis
+estavam bem equilibradas entre os dois grupos. Ao incubar
+
+Silva et al
+miRNAs e doença cardiovascular
+
+Artigo de Revisão
+HUVEC com o miR-133a, houve redução da expressão da
+proteína alvo MMP-9, enquanto as células incubadas com
+miR-133a ou miR-145 apresentaram menor expressão de
+inibidor do ativador de plasminogênio 1 (PAI-1).76
+
+na circulação sanguínea, demandando, assim, investigações
+adicionais para determinar a sua origem tecidual.
+
+Conclusão
+
+Concepção e desenho da pesquisa: Fernandes-Santos
+C; obtenção de dados, análise e interpretação dos dados,
+redação do manuscrito e revisão crítica do manuscrito quanto
+ao conteúdo intelectual importante: Silva DCP, Carneiro FD,
+Almeida KC, Fernandes-Santos, C.
+
+Apesar da complexidade e dos desafios, a identificação dos
+miRNAs desregulados é crucial, uma vez que possibilita uma
+melhor compressão dos mecanismos celulares e moleculares
+envolvidos nas DCVs. A pesquisa sobre miRNAs teciduais e
+circulantes poderá auxiliar no desenvolvimento de marcadores
+circulantes de diagnóstico e prognóstico mais acurados em
+comparação aos já utilizados, assim como novas estratégias
+terapêuticas para os diferentes estágios da DCV.
+Apesar do avanço neste campo, ainda existem algumas
+limitações, por exemplo, no uso dos miRNAs circulantes como
+biomarcadores. Ainda não são conhecidos completamente
+os processos moleculares que regulam o empacotamento
+e a liberação de miRNAs extracelulares, quer por meio de
+mecanismos mediados por vesículas ou não. Além disso,
+a detecção dos miRNAs circulantes demanda alto custo
+técnico, o que limitaria, a princípio, o seu uso na rotina clínica
+laboratorial. Outro fator limitante é a onipresença dos miRNAs
+
+Contribuição dos autores
+
+Potencial conflito de interesses
+Declaro não haver conflito de interesses pertinentes.
+Fontes de financiamento
+O presente estudo foi financiado pela FAPERJ.
+Vinculação acadêmica
+Este artigo é parte de tese de Doutorado de Debora Cristina
+Pereira da Silva pelo Programa de Pós-graduação em Ciências
+Cardiovasculares da Universidade Federal Fluminense.
+
+Referências
+1.
+
+Lee RC, Feinbaum RL, Ambros V. The C. elegans heterochronic gene
+lin-4 encodes small RNAs with antisense complementarity to lin-14. Cell.
+1993;75(5):843-54.
+
+2.
+
+M a t t i c k J S , M a k u n i n I V. N o n - c o d i n g R N A . H u m M o l G e n e t .
+2006;15(spec1):R17-29.
+
+3.
+
+Poy MN, Eliasson L, Krutzfeldt J, Kuwajima S, Ma X, Macdonald PE, et al.
+A pancreatic islet-specific microRNA regulates insulin secretion. Nature.
+2004;432(7014):226-30.
+
+4.
+
+Calin GA, Sevignani C, Dumitru CD, Hyslop T, Noch E, Yendamuri S, et al.
+Human microRNA genes are frequently located at fragile sites and genomic
+regions involved in cancers. Proc Natl Acad Sci U S A. 2004;101(9):2999-3004.
+
+5.
+
+Zhou X, Zuo Z, Zhou F, Zhao W, Sakaguchi Y, Suzuki T, et al. Profiling sexspecific piRNAs in zebrafish. Genetics. 2010;186(4):1175-85.
+
+6.
+
+Chang TC, Mendell JT. MicroRNAs in vertebrate physiology and human
+disease. Annu Rev Genomics Hum Genet. 2007;8:215-39.
+
+7.
+
+Bartel DP, Chen CZ. Micromanagers of gene expression: the potentially
+widespread influence of metazoan microRNAs. Nat Rev Genet.
+2004;5(5):396-400.
+
+8.
+
+Kim VN. MicroRNA biogenesis: coordinated cropping and dicing. Nat Rev
+Mol Cell Biol. 2005;6(5):376-85.
+
+9.
+
+Han J, Lee Y, Yeom KH, Nam JW, Heo I, Rhee JK, et al. Molecular basis for the
+recognition of primary microRNAs by the Drosha-DGCR8 complex. Cell.
+2006;125(5):887-901.
+
+10. Lee Y, Han J, Yeom KH, Jin H, Kim VN. Drosha in primary microRNA
+processing. Cold Spring Harb Symp Quant Biol. 2006;71:51-7.
+
+13. Krützfeldt J, Poy MN, Stoffel M. Strategies to determine the biological
+function of microRNAs. Nat Genet. 2006;38 ( Suppl):S14-9.
+14. Rand TA, Petersen S, Du F, Wang X. Argonaute2 cleaves the anti-guide strand
+of siRNA during RISC activation. Cell. 2005;123(4):621-9.
+15. Tang G, Reinhart BJ, Bartel DP, Zamore PD. A biochemical framework for
+RNA silencing in plants. Genes Dev. 2003;17(1):49-63.
+16. Zeng Y, Wagner EJ, Cullen BR. Both natural and designed micro RNAs can
+inhibit the expression of cognate mRNAs when expressed in human cells.
+Mol Cell. 2002;9(6):1327-33.
+17. Gebauer F, Hentze MW. Molecular mechanisms of translational control. Nat
+Rev Mol Cell Biol. 2004;5(10):827-35.
+18. Zhang J, Zhao H, Gao Y, Zhang W. Secretory miRNAs as novel cancer
+biomarkers. Biochim Biophys Acta. 2012;1826(1):32-43.
+19. Muoio DM, Newgard CB. Mechanisms of disease: molecular and metabolic
+mechanisms of insulin resistance and beta-cell failure in type 2 diabetes. Nat
+Rev Mol Cell Biol. 2008;9(3):193-205.
+20. van Rooij E, Liu N, Olson EN. MicroRNAs flex their muscles. Trends Genet.
+2008;24(4):159-66.
+21. Wang J, Huang W, Xu R, Nie Y, Cao X, Meng J, et al. MicroRNA-24
+regulates cardiac fibrosis after myocardial infarction. J Cell Mol Med.
+2012;16(9):2150-60.
+22. Cheng Y, Tan N, Yang J, Liu X, Cao X, He P, et al. A translational study of
+circulating cell-free microRNA-1 in acute myocardial infarction. Clin Sci
+(Lond). 2010;119(2):87-95.
+
+11. Yi R, Qin Y, Macara IG, Cullen BR. Exportin-5 mediates the nuclear export of
+pre-microRNAs and short hairpin RNAs. Genes Dev. 2003;17(24):3011-6.
+
+23. Rao PK, Toyama Y, Chiang HR, Gupta S, Bauer M, Medvid R, et al. Loss of
+cardiac microRNA-mediated regulation leads to dilated cardiomyopathy
+and heart failure. Circ Res. 2009;105(6):585-94.
+
+12. Kim VN, Han J, Siomi MC. Biogenesis of small RNAs in animals. Nat Rev Mol
+Cell Biol. 2009;10(2):126-39.
+
+24. Xin Y,Yang C, Han Z. Circulating miR-499 as a potential biomarker for acute
+myocardial infarction. Ann Transl Med. 2016;v.4.
+
+Arq Bras Cardiol. 2018; 111(5):738-746
+
+744
+
+Silva et al
+miRNAs e doença cardiovascular
+
+Artigo de Revisão
+25. Xiao J, Shen B, Li J, Lv D, Zhao Y, Wang F, et al. Serum microRNA-499 and
+microRNA-208a as biomarkers of acute myocardial infarction. Int J Clin Exp
+Med. 2014;7(1):136-41
+26. Chen X, Zhang L, Su T, Li H, Huang Q, Wu D, et al. Kinetics of plasma
+microRNA-499 expression in acute myocardial infarction. J Thorac Dis.
+2015;7(5):890-6.
+27. Bye A, Røsjø H, Nauman J, Silva GJ, Follestad T, Omland T, et al. Circulating
+microRNAs predict future fatal myocardial infarction in healthy individuals
+- The HUNT study. J Mol Cell Cardiol. 2016 Aug;97:162-8.
+28. Jia K, Shi P, Han X, Chen T, Tang H, Wang J. Diagnostic value of miR-30d5p and miR-125b-5p in acute myocardial infarction. Mol Med Rep.
+2016;14(1):184-94.
+29. Yan H, Ma F, Zhang Y, Wang C, Qiu D, Zhou K, et al. miRNAs as biomarkers
+for diagnosis of heart failure: A systematic review and meta-analysis.
+Medicine (Baltimore). 2017;96(22):e6825.
+30. Cakmak HA, Coskunpinar E, Ikitimur B, Barman HA, Karadag B, Tiryakioglu
+NO. The prognostic value of circulating microRNAs in heart failure:
+preliminary results from a genome-wide expression study. J Cardiovasc Med
+(Hagerstown). 2015;16(6):431-7.
+31. Vegter EL, van der Meer P, de Windt LJ, Pinto YM, Voors AA. MicroRNAs
+in heart failure: from biomarker to target for therapy. Eur J Heart Fail.
+2016;18(5):457-68.
+32. Lakschevitz F, Aboodi G, Tenenbaum H, Glogauer M. Diabetes and
+periodontal diseases: interplay and links. Curr Diabetes Rev. 2011;7(6):433-9.
+33. Harling L, Lambert J, Ashrafian H, Darzi A, Gooderham NJ, Athanasiou T.
+Elevated serum microRNA 483-5p levels may predict patients at risk of postoperative atrial fibrillation. Eur J Cardiothorac Surg. 2017;51(1):73-8.
+34. Feldman A, Moreira DA, Gun C, Wang HL, Hirata MH, de Freitas Germano J,
+et al. Analysis of circulating miR-1, miR-23a, and miR-26a in atrial fibrillation
+patients undergoing coronary bypass artery grafting surgery. Ann Hum
+Genet. 2017;81(3):99-105.
+35. Wei XJ, Han M, Yang FY, Wei GC, Liang ZG, Yao H, et al. Biological
+significance of miR-126 expression in atrial fibrillation and heart failure. Braz
+J Med Biol Res. 2015;48(11):983-9.
+36. Goren Y, Meiri E, Hogan C, Mitchell H, Lebanony D, Salman N, et al. Relation
+of reduced expression of MiR-150 in platelets to atrial fibrillation in patients
+with chronic systolic heart failure. Am J Cardiol. 2014;113(6):976-81.
+37. Zernecke A, Bidzhekov K, Noels H, Shagdarsuren E, Gan L, Denecke B, et al.
+Delivery of microRNA-126 by apoptotic bodies induces CXCL12-dependent
+vascular protection. Sci Signal. 2009;2(100): 81.
+38. Jeong HS, Kim JY, Lee SH, Hwang J, Shin JW, Song KS, et al. Synergy of
+circulating miR-212 with markers for cardiovascular risks to enhance
+estimation of atherosclerosis presence. PLoS One. 2017;12(5):e0177809.
+39. Liu CZ, Zhong Q, Huang YQ. Elevated plasma MiR-29a levels are associated
+with increased carotid intima-media thickness in atherosclerosis patients.
+Tohoku J Exp Med. 2017;241(3):183-8.
+40. Piubelli C, Meraviglia V, Pompilio G, D’Alessandra Y, Colombo GI, Rossini
+A. microRNAs and Cardiac Cell Fate. Cells. 2014;3(3):802-23
+
+745
+
+45. Tony H, Meng K, Wu B, Yu A, Zeng Q, Yu K, et al. MicroRNA-208a
+Dysregulates Apoptosis Genes Expression and Promotes Cardiomyocyte
+Apoptosis during Ischemia and Its Silencing Improves Cardiac Function after
+Myocardial Infarction. Mediators Inflamm. 2015;2015 Nov 25:479123.
+46. Lee SY, Lee CY, Ham O, Moon JY, Lee J, Seo HH, et al. microRNA-133a
+attenuates cardiomyocyte hypertrophy by targeting PKCdelta and Gq. Mol
+Cell Biochem. 2018;439(1-2):105-15
+47. Wu Y, Wang YQ, Wang BX. [MicroRNA-133a attenuates isoproterenolinduced neonatal rat cardiomyocyte hypertrophy by downregulating L-type
+calcium channel alpha1C subunit gene expression.] Zhonghua Xin Xue Guan
+Bing Za Zhi. 2013;41(6):507-13.
+48. Wang YS, Zhou J, Hong K, Cheng XS, Li YG. MicroRNA-223 displays a
+protective role against cardiomyocyte hypertrophy by targeting cardiac
+troponin I-interacting kinase. Cell Physiol Biochem. 2015;35(4):1546-56.
+49. Bao Q, Chen L, Li J, Zhao M, Wu S, Wu W, et al. Role of microRNA-124 in
+cardiomyocyte hypertrophy inducedby angiotensin II. Cell Mol Biol (Noisyle-grand). 2017;63(4):23-27.
+50. Shieh JT, Huang Y, Gilmore J, Srivastava D. Elevated miR-499 levels blunt the
+cardiac stress response. PLoS One. 2011;6(5):e19481
+51. Duisters RF, Tijsen AJ, Schroen B, Leenders JJ, Lentink V, van der Made
+I, et al. miR-133 and miR-30 regulate connective tissue growth factor:
+implications for a role of microRNAs in myocardial matrix remodeling. Circ
+Res. 2009;104(2):170-8,
+52. He Q, Wang CM, Qin JY, Zhang YJ, Xia DS, Chen X, et al. Effect of miR203 expression on myocardial fibrosis. Eur Rev Med Pharmacol Sci.
+2017;21(4):837-42.
+53. Lai KB, Sanderson JE, Izzat MB, Yu CM. Micro-RNA and mRNA myocardial
+tissue expression in biopsy specimen from patients with heart failure. Int J
+Cardiol. 2015 Nov 15;199:79-83.
+54. Cheng R, Dang R, Zhou Y, Ding M, Hua H. MicroRNA-98 inhibits TGF-beta1induced differentiation and collagen production of cardiac fibroblasts by
+targeting TGFBR1. Hum Cell. 2017;30(3):192-200.
+55. Ikeda S, Kong SW, Lu J, Bisping E, Zhang H, Allen PD, et al. Altered microRNA
+expression in human heart disease. Physiol Genomics. 2007;31(3):367-73.
+56. Carè A, Catalucci D, Felicetti F, Bonci D, Addario A, Gallo P, et al.
+MicroRNA-133 controls cardiac hypertrophy. Nat Med. 2007;13(5):613-8.
+57. Yang B, Lin H, Xiao J, Lu Y, Luo X, Li B, et al. The muscle-specific microRNA
+miR-1 regulates cardiac arrhythmogenic potential by targeting GJA1 and
+KCNJ2. Nat Med. 2007;13(4):486-91.
+58. Galkina E, Ley K. Immune and inflammatory mechanisms of atherosclerosis
+(*). Annu Rev Immunol. 2009;27:165-97.
+59. Fang Y, Shi C, Manduchi E, Civelek M, Davies PF. MicroRNA-10a regulation
+of proinflammatory phenotype in athero-susceptible endothelium in vivo
+and in vitro. Proc Natl Acad Sci U S A. 2010;107(30):13450-5.
+60. Sun X, Icli B, Wara AK, Belkin N, He S, Kobzik L, et al. MicroRNA181b regulates NF-κB-mediated vascular inflammation. J Clin Invest.
+2012;122(6):1973-90.
+
+41. Zhao Y, Samal E, Srivastava D. Serum response factor regulates a musclespecific microRNA that targets Hand2 during cardiogenesis. Nature.
+2005;436(7048):214-20.
+
+61. Suárez Y, Wang C, Manes TD, Pober JS. Cutting edge: TNF-induced
+microRNAs regulate TNF-induced expression of E-selectin and intercellular
+adhesion molecule-1 on human endothelial cells: feedback control of
+inflammation. J Immunol. 2010;184(1):21-5.
+
+42. Carmean CM, Bobe AM, Yu JC, Volden PA, Brady MJ. Refeeding-induced
+brown adipose tissue glycogen hyper-accumulation in mice is mediated by
+insulin and catecholamines. PLoS One. 2013;8(7):e67807.
+
+62. Rayner KJ, Suárez Y, Dávalos A, Parathath S, Fitzgerald ML, Tamehiro N, et
+al. MiR-33 contributes to the regulation of cholesterol homeostasis. Science.
+2010;328(5985):1570-3.
+
+43. Thum T, Gross C, Fiedler J, Fischer T, Kissler S, Bussen M, et al. MicroRNA-21
+contributes to myocardial disease by stimulating MAP kinase signalling in
+fibroblasts. Nature. 2008;456(7224):980-4
+
+63. Rayner KJ, Sheedy FJ, Esau CC, Hussain FN, Temel RE, Parathath S, et al.
+Antagonism of miR-33 in mice promotes reverse cholesterol transport and
+regression of atherosclerosis. J Clin Invest. 2011;121(7):2921-31.
+
+44. Tatsuguchi M, Seok HY, Callis TE, Thomson JM, Chen JF, Newman M, et al.
+Expression of microRNAs is dynamically regulated during cardiomyocyte
+hypertrophy. J Mol Cell Cardiol. 2007;42(6):1137-41.
+
+64. Elmén J, Lindow M, Schütz S, Lawrence M, Petri A, Obad S, et al.
+LNA-mediated microRNA silencing in non-human primates. Nature.
+2008;452(7189):896-9.
+
+Arq Bras Cardiol. 2018; 111(5):738-746
+
+Silva et al
+miRNAs e doença cardiovascular
+
+Artigo de Revisão
+65. Huang RS, Hu GQ, Lin B, Lin ZY, Sun CC. MicroRNA-155 silencing enhances
+inflammatory response and lipid uptake in oxidized low-density lipoproteinstimulated human THP-1 macrophages. J Investig Med. 2010;58(8):961-7.
+66. Chen T, Huang Z, Wang L, Wang Y, Wu F, Meng S, et al. MicroRNA-125a5p partly regulates the inflammatory response, lipid uptake, and ORP9
+expression in oxLDL-stimulated monocyte/macrophages. Cardiovasc Res.
+2009;83(1):131-9.
+67. Leeper NJ, Raiesdana A, Kojima Y, Chun HJ, Azuma J, Maegdefessel L, et al.
+MicroRNA-26a is a novel regulator of vascular smooth muscle cell function.
+J Cell Physiol. 2011;226(4):1035-43.
+68. Davis BN, Hilyard AC, Nguyen PH, Lagna G, Hata A.. Induction of
+microRNA-221 by platelet-derived growth factor signaling is critical
+for modulation of vascular smooth muscle phenotype. J Biol Chem.
+2009;284(6):3728-38.
+69. Poliseno L, Tuccoli A, Mariani L, Evangelista M, Citti L, Woods K, et al.
+MicroRNAs modulate the angiogenic properties of HUVECs. Blood.
+2006;108(9):3068-71
+70. Dentelli P, Rosso A, Orso F, Olgasi C, Taverna D, Brizzi MF. microRNA-222
+controls neovascularization by regulating signal transducer and
+
+activator of transcription 5A expression. Arterioscler Thromb Vasc Biol.
+2010;30(8):1562-8.
+71. Sun HX, Zeng DY, Li RT, Pang RP, Yang H, Hu YL, et al. Essential role of
+microRNA-155 in regulating endothelium-dependent vasorelaxation by
+targeting endothelial nitric oxide synthase. Hypertension. 2012;60(6):1407-14.
+72. Urbich C, Kaluza D, Frömel T, Knau A, Bennewitz K, Boon RA, et al.
+MicroRNA-27a/b controls endothelial cell repulsion and angiogenesis by
+targeting semaphorin 6A. Blood. 2012;119(6):1607-16.
+73. Bonauer A, Carmona G, Iwasaki M, Mione M, Koyanagi M, Fischer A, et al.
+MicroRNA-92a controls angiogenesis and functional recovery of ischemic
+tissues in mice. Science. 2009;324(5935):1710-3.
+74. Cipollone F, Fazia M, Mezzetti A. Novel determinants of plaque instability.
+J Thromb Haemost. 2005;3(9):1962-75.
+75. Torella D, Iaconetti C, Catalucci D, Ellison GM, Leone A, Waring CD, et al.
+MicroRNA-133 controls vascular smooth muscle cell phenotypic switch in
+vitro and vascular remodeling in vivo. Circ Res. 2011;109(8):880-93.
+76. Cipollone F, Felicioni L, Sarzani R, Ucchino S, Spigonardo F, Mandolini C,
+et al. A unique microRNA signature associated with plaque instability in
+humans. Stroke. 2011;42(9):2556-63.
+
+Este é um artigo de acesso aberto distribuído sob os termos da licença de atribuição pelo Creative Commons
+
+Arq Bras Cardiol. 2018; 111(5):738-746
+
+746
+
+

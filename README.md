@@ -43,6 +43,8 @@ Foram adicionados ao repositório dois datasets relacionados e com dados diretam
 - [assets/datasets/Cardiovascular_Disease.csv](assets/datasets/Cardiovascular_Disease.csv)
 - [assets/datasets/CVD_Risk_Prediction.csv](assets/datasets/CVD_Risk_Prediction.csv)
 
+> Ambos os datasets foram obtidos de [https://www.kaggle.com/datasets/](https://www.kaggle.com/datasets/)
+
 Esses arquivos estão disponíveis tanto **NESTE REPOSITÓRIO** como no seguinte link para download:
 
 - [Google Drive](https://drive.google.com/drive/folders/1qc77y52Pok4xuj9DwPLPNEdPdkZaHi4F?usp=sharing)
@@ -100,14 +102,54 @@ Baseado no Sistema de Vigilância de Fatores de Risco Comportamental (BRFSS) do 
 | 18  | **Green_Vegetables_Consumption** | Numérico   | 0-120 porções                                                                                                     | **Consumo de Vegetais Verdes**<br>Frequência de consumo de vegetais verdes por mês<br>• Média: 14,5 porções, Mediana: 12 porções                                                     |
 | 19  | **FriedPotato_Consumption**      | Numérico   | 0-120 porções                                                                                                     | **Consumo de Batata Frita**<br>Frequência de consumo de batatas fritas por mês<br>• Média: 6,5 porções, Mediana: 4 porções                                                           |
 
+1.3. **Origem, relevância e importância no contexto de um projeto de IA voltado à saúde**
+
+Ambos os datasets refletem **DADOS REAIS**, coletados por instituições oficiais, descritas na introdução de cada dataset acima.
+
+Os conjuntos de dados possuem complementaridade Temporal, cobrem diferentes momentos do cuidado cardiovascular:
+
+- Dataset 1 - **CVD_Risk_Prediction.csv**: Prevenção e estratificação de risco populacional
+- Dataset 2 - **Cardiovascular_Disease**: Diagnóstico e monitoramento em tempo real
+
+**Variáveis Clinicamente Mais Relevantes:**
+
+🏆 Máxima Relevância:
+
+- Heart_Disease - Variável alvo para validação
+- Age_Category - Fator de risco não modificável mais importante
+- Sinais ECG Anormais - Detecção objetiva em tempo real
+
+🥇 Alta Relevância:
+
+- BMI - Fator modificável com relação dose-dependente
+- Diabetes - Equivalente de risco coronário
+- Smoking_History - Maior impacto entre fatores modificáveis
+- Exercise - Cardioproteção comprovada (redução de 30-35% do risco)
+
+**Importância para IA em Saúde:**
+
+Aplicação Estratégica Ideal:
+
+1. Usar Dataset 1 para triagem populacional e identificação de alto risco;
+2. Aplicar Dataset 2 para monitoramento contínuo dos pacientes estratificados;
+   Integrar ambos para medicina personalizada e alertas precoces;
+
+Esta abordagem híbrida maximiza tanto a prevenção primária quanto a detecção precoce, oferecendo um sistema de cuidados cardiovasculares assistidos por IA.
+
 ### 2. Textos médicos ou literários relacionados à saúde cardiovascular:
 
 Arquivos no repositório:
 
 - [docs/hipertensao_arterial_sistemica_cab37.txt](docs/hipertensao_arterial_sistemica_cab37.txt) — material técnico sobre HAS.
+  - Fonte: [https://bvsms.saude.gov.br/bvs/publicacoes/hipertensao_arterial_sistemica_cab37.pdf](https://bvsms.saude.gov.br/bvs/publicacoes/hipertensao_arterial_sistemica_cab37.pdf)
 - [docs/pcdt_hipertensao_arterial_sistemica.txt](docs/pcdt_hipertensao_arterial_sistemica.txt) — PCDT de HAS.
+  - Fonte: [https://www.gov.br/conitec/pt-br/midias/protocolos/pcdt-hipertensao-arterial-sistemica.pdf
+    ](https://www.gov.br/conitec/pt-br/midias/protocolos/pcdt-hipertensao-arterial-sistemica.pdf)
 - [docs/mirnas_fisiopatologia_dcv.txt](docs/mirnas_fisiopatologia_dcv.txt) — revisão (miRNAs em doença cardiovascular).
+  - Fonte: [https://www.scielo.br/j/abc/a/xm7z5nQgmMjDjwhzMZNCLdt/?format=pdf&lang=pt&
+    ](https://www.scielo.br/j/abc/a/xm7z5nQgmMjDjwhzMZNCLdt/?format=pdf&lang=pt&)
 - [docs/gdf15_biomarcador_dcv.txt](docs/gdf15_biomarcador_dcv.txt) — revisão (GDF-15 como biomarcador em DCV).
+  - Fonte: [https://www.scielo.br/j/abc/a/yvpBJjjKg89LRZG94bdjQdM/?format=pdf&lang=pt](https://www.scielo.br/j/abc/a/yvpBJjjKg89LRZG94bdjQdM/?format=pdf&lang=pt)
 
 **Por que esses artigos são relevantes?**  
 Cobrem aspectos do cenário **macro** (saúde pública, diretrizes e sintomas/tratamento em HAS) até o cenário **micro** (biomarcadores e mecanismos em DCV), enriquecendo sobremaneira:
@@ -131,6 +173,8 @@ Cobrem aspectos do cenário **macro** (saúde pública, diretrizes e sintomas/tr
 ### 3. Imagens médicas (exames ou sinais visuais):
 
 Este conjunto de imagens contém registros de ECG coletados usando um dispositivo IoT personalizado equipado com um sensor de ECG. Os dados foram coletados diretamente do corpo humano por meio de eletrodos colocados no peito, capturando a atividade elétrica do coração em tempo real. O conjunto de dados é dividido em três classes: sinais Normais, Anormais e com Histórico de IM (Infarto do Miocárdio), representando uma gama de condições cardíacas.
+
+> Fonte: [https://data.mendeley.com/datasets/xw9sd3btcs/1](https://data.mendeley.com/datasets/xw9sd3btcs/1)
 
 As imagens estão disponíveis para visualização e download NESTE REPOSITÓRIO, em:
 

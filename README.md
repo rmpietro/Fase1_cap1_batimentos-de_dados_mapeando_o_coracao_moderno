@@ -48,7 +48,7 @@ Este projeto agrega e define os dados fundamentais a partir de repositórios e b
 
 Nova tabela adicionada com os seguintes campos, abaixo explicados:
 
-## Parte 2 — Dados Textuais (NLP) — Conjunto (PT-BR)
+## Parte 2 — Dados Textuais (NLP) — Conjunto
 
 Arquivos no repositório:
 - [docs/hipertensao_arterial_sistemica_cab37.txt](docs/hipertensao_arterial_sistemica_cab37.txt) — material técnico sobre HAS.
